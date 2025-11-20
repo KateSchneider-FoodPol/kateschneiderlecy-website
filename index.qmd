@@ -1,0 +1,15 @@
+---
+title: "Home"
+---
+
+Hi, I'm **Kate Schneider Lecy**, an Assistant Professor at Arizona State University.
+
+My work focuses on **global food systems, sustainability, and resilience**, with a particular emphasis on
+livelihoods, grains & legumes, and food systems transformation.
+
+You can learn more about my work:
+
+- [Research](research.qmd): projects and collaborations  
+- [Publications](publications.qmd): peer-reviewed work  
+- [Teaching](teaching.qmd): courses and student resources  
+- [CV](cv.qmd): full academic CV
