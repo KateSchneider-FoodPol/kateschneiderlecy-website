@@ -1,0 +1,49 @@
+---
+title: "Impact"
+---
+
+## Policy and practice
+
+- **Indicators adopted into global monitoring frameworks.** Food Systems Countdown Initiative indicators I helped design have been incorporated into the [CAADP](https://www.foodcountdown.org/) framework and into [FAOSTAT](https://www.fao.org/faostat/), extending their use well beyond the original research.
+- **Policy reports with global reach.** The Food Systems Countdown Initiative's annual assessments are released as FAO policy reports with executive summaries in six languages:
+  - [The state of food systems worldwide in the countdown to 2030 (2023)](https://www.fao.org/documents/card/en/c/cc8697en)
+  - [Governance and resilience as entry points for transforming food systems (2025)](https://openknowledge.fao.org/items/78839aee-a0f2-4741-aade-67e526f962f6)
+- **FAO Statistics Working Papers** on employment and value added in agrifood systems, informing how national statistical offices and international agencies measure and report on the agrifood workforce. See [Estimating global and country-level employment in agrifood systems](https://www.fao.org/documents/card/en/c/cc4337en).
+- **USDA-funded consumer research** on diet quality and food price sensitivity, supported by the Robert Wood Johnson Foundation and USDA Economic Research Service — see the [USDA press release](https://www.ers.usda.gov/newsroom/trending-topics/news-release-ers-announces-1-4m-in-research-grants-to-improve-equitable-healthy-food-access-in-partnership-with-robert-wood-johnson-foundation/).
+
+## Open data and reproducibility
+
+All of my empirical work is released with public replication code and data wherever possible, through [GitHub](https://github.com/KateSchneider-FoodPol) and [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/Kate_Schneider) — see each entry on the [Publications](publications.qmd) page for direct links.
+
+## Scholarly recognition
+
+- **Sylvia Lane Mentorship Fellowship** (2026), Agricultural & Applied Economics Association (AAEA) — $2,500 to work with mentor Chen Zhen (University of Georgia) on consumer demand for whole grains and legumes using household scanner data
+- **Invited keynotes & plenary presentations:**
+  - "Interactions across food systems" (Invited Keynote) — UVM Food Systems Summit, University of Vermont, September 2024
+  - "The state of food systems worldwide" (Invited Keynote) — Paths to Sustainable Food Systems Conference, Norwegian University of Life Sciences (NMBU), Oslo, Norway, April 2024
+  - "Estimating global and country-level employment in agrifood systems" (Plenary) — 9th International Conference on Agricultural Statistics, Washington, DC, May 2023
+- Invited and selected presentations at the Agricultural & Applied Economics Association (AAEA) annual meetings, the Association for Public Policy Analysis & Management (APPAM) fall conferences, the International Conference of Agricultural Economics (ICAE), the AAAS Forum on Science & Technology Policy, the Tata-Cornell Institute 10th Anniversary Conference, and invited departmental seminars (e.g., Michigan State University)
+
+## Funding
+
+- **Understanding American consumers' demand for whole grains and legumes using household scanner data** (2026–2027) — part of the Soil to Society project, with Vicki McCracken and Chen Zhen. PI: Kate Schneider Lecy.
+- **Food Systems Countdown Initiative** (2026–2027) — Nourishing Food Pathways sub-award from GAIN. PI: Kate Schneider Lecy.
+- **Whose diet quality is most at risk when food prices rise?** (2023–2025) — Robert Wood Johnson Foundation. PI: Kate Schneider.
+- **Value added in agrifood systems** (2023–2024) — Food and Agriculture Organization of the United Nations. PI: Kate Schneider.
+- **Food Systems Countdown Initiative Bellagio Workshop** (April 2023) — Rockefeller Foundation Bellagio Center. Lead applicant and coordinator: Kate Schneider.
+- **Food Systems Countdown Initiative** (2022–2024) — Dutch Ministry of Foreign Affairs sub-award from GAIN. PI: Kate Schneider.
+- **Optimizing human health and nutrition: from soil to society** (2022–2027) — U.S. Department of Agriculture, sub-award from Washington State University (total award: $10 million). PI: Andrew Thorne-Lyman.
+- **Food Systems Countdown Report** (2021–2022) — Dutch Ministry of Foreign Affairs sub-award from GAIN. PI: Jessica Fanzo.
+- **Changing Access to Nutritious Diets in Africa and South Asia** (2018–2020) — Bill & Melinda Gates Foundation. PI: William Masters.
+
+I have also received the Gerald J. Friedman Fellowship in Nutrition and Citizenship (2016–2020), a Tufts University Provost Fellow Award (2016–2018), and Bill & Melinda Gates Foundation High Impact Bonuses (2015 & 2016).
+
+## Metrics & mentions
+
+- **[Google Scholar profile](https://scholar.google.com/citations?hl=en&user=lWGTfD4AAAAJ)**
+- **[ORCID record](https://orcid.org/0000-0002-6861-3255)**
+- **[ASU faculty profile](https://search.asu.edu/profile/5533475)**
+- **Altmetric attention scores** — track news coverage, policy citations, and social media reach beyond academic citations — for select articles:
+  - [Governance and resilience as entry points for transforming food systems (2025)](https://www.altmetric.com/details.php?doi=10.1038/s43016-024-01109-4)
+  - [The state of food systems worldwide in the countdown to 2030 (2023)](https://www.altmetric.com/details.php?doi=10.1038/s43016-023-00885-9)
+  - [Global food systems transitions have enabled affordable diets... (2022)](https://www.altmetric.com/details.php?doi=10.1038/s43016-022-00588-7)

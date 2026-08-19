@@ -1,0 +1,24 @@
+---
+title: "Food Systems Transformation"
+---
+
+[← Back to Research overview](research.qmd)
+
+![](images/research-food-systems-transformation.webp){.theme-photo style="object-position: center bottom;" fig-alt="Food systems transformation fieldwork"}
+
+Food systems are complex systems spanning the production, processing, transport, distribution, and consumption of food. They deliver nourishment, jobs, community, culture, and pleasure — but today's food systems do not equitably provide access to sufficient nutritious and safe food for all people, are responsible for a large share of environmental degradation, and are rife with unfair labor practices and human rights violations. Transforming food systems — reshaping the infrastructure, technology, interactions, and actors within them — to become healthy, sustainable, equitable, resilient, and just is essential to addressing problems from human suffering to planetary crisis. This body of work focuses on historical and ongoing food systems change and on policy-relevant food systems information systems and decision-support.
+
+**Ongoing**
+
+- **[Food Systems Countdown Initiative](https://www.foodcountdown.org/)** — I lead the analysis and management of this large collaborative effort of 60+ multidisciplinary scientists from dozens of institutions, monitoring food systems transformation against the 2030 Sustainable Development Goals and other global goals. Indicators from this work have been incorporated into the CAADP framework and FAOSTAT.
+
+**Completed**
+
+- **Global food systems transitions and their outcomes** — with Ramya Ambikapathi, Ben Davis, Mario Herrero, Paul Winters, and Jessica Fanzo, showing that food systems transitions have enabled more affordable diets but had less favourable outcomes for nutrition, environmental health, inclusion, and equity. Published in [Nature Food](https://doi.org/10.1038/s43016-022-00588-7).
+- **Resilient and inclusive rural transformation** — with Ana Paula De La O Campos, Romina Cavatassi, Ben Davis, Ramya Ambikapathi, Kaleab Baye, and Lynnette Neufeld, examining challenges and opportunities for income growth and job creation, and pathways to improved nutrition, in sub-Saharan Africa under climate, demographic, and social change. Published in Global Food Security: [income growth and job creation](https://doi.org/10.1016/j.gfs.2024.100815) · [pathways towards improved nutrition](https://doi.org/10.1016/j.gfs.2025.100871).
+- **Defining and measuring policy coherence for food systems transformation** — a scoping review with Deviana Dewi, Destan Aytekin, Namukolo Covic, Jessica Fanzo, Stella Nordhagen, and Danielle Resnick. Published in [Global Food Security](https://doi.org/10.1016/j.gfs.2024.100803).
+- **Health–environment interactions across food systems** — a commentary on how health and environmental outcomes interact across food systems. Published in [Nature Food](https://doi.org/10.1038/s43016-024-00928-9).
+
+## Peer-reviewed publications
+
+{{< include _generated/pubs-food-systems-transformation.md >}}

@@ -1,0 +1,24 @@
+---
+title: "Equitable Access to Healthy & Sustainable Diets"
+---
+
+[← Back to Research overview](research.qmd)
+
+![](images/research-equitable-access.webp){.theme-photo fig-alt="Equitable access to healthy diets fieldwork"}
+
+Food security exists when "all people, at all times, have economic, physical, and social access to adequate safe, nutritious foods that meet their dietary needs and food preferences for an active and healthy life." Nearly 30 years after that definition was adopted, hundreds of millions of people remain food insecure, cannot afford a healthy diet, or face other barriers to accessing and choosing healthy foods. This body of work focuses on understanding the constraints to accessing and choosing safe, nourishing, and satisfying foods that promote health and support well-being, and that contribute to more sustainable production systems and value chains — in the US, Rwanda, Malawi, and beyond.
+
+**Ongoing**
+
+- **Crops that Nourish** — a transdisciplinary agenda for agricultural research on "opportunity crops" that improve nutrition, soil health, resilience, and prosperity together, published as a commentary in [Nature Food](https://doi.org/10.1038/s43016-025-01271-3). Ongoing work includes demand modeling of opportunity crops in Malawi with Yawotse Nouve, Sieg Snapp, and Kevin Murphy.
+- **American consumer demand for healthy and sustainable diets** — the [Soil to Society](https://www.soiltosociety.org/) program with Andrew Thorne-Lyman (PI), through a USDA AFRI grant with Washington State University, examining willingness-to-pay, informational interventions, and dietary shift barriers for whole grains and legumes among American consumers; upcoming scanner data work with Vicki McCracken as part of that project; and a related study with Carola Grebitus and Chad Stetcher on nudge and mindfulness interventions. I am also mentored on this work by Chen Zhen (University of Georgia), outside the Soil to Society project.
+
+**Completed**
+
+- **Whose diet quality is most at risk when food prices rise?** A project funded by the Robert Wood Johnson Foundation using USDA Consumer Food Data System assets to understand how consumer diets change in response to food prices, and which sub-populations are most vulnerable in the short and long term. Published in *Applied Economic Perspectives and Policy*. [USDA press release](https://www.ers.usda.gov/newsroom/trending-topics/news-release-ers-announces-1-4m-in-research-grants-to-improve-equitable-healthy-food-access-in-partnership-with-robert-wood-johnson-foundation/) · [Preregistration](https://osf.io/37jqm)
+- **The cost and affordability of new dietary recommendations in Rwanda**, with Rhys Manners (lead author), James Warner, David Spielman, and colleagues, deploying high-frequency market price data to track diet cost and affordability over time. Published in [Food Policy](https://doi.org/10.1016/j.foodpol.2026.103085).
+- **Cost of nutritious diets for households in Malawi** (dissertation) — household consumption, individual nutrient requirements, and the affordability of nutrient-adequate diets in Malawi, completed at the Friedman School of Nutrition Science & Policy, Tufts University. Published across the [Journal of Nutrition](https://doi.org/10.1093/jn/nxab287), [American Journal of Agricultural Economics](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajae.12334), and [Food Policy](https://doi.org/10.1016/j.foodpol.2022.102275).
+
+## Peer-reviewed publications
+
+{{< include _generated/pubs-equitable-access.md >}}

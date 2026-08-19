@@ -1,0 +1,21 @@
+---
+title: "Economics of Agrifood Systems"
+---
+
+[← Back to Research overview](research.qmd)
+
+![](images/research-economics-data-gaps.webp){.theme-photo fig-alt="Economics of agrifood systems fieldwork"}
+
+Agrifood systems are essential to every economy on earth and employ more than a billion people, with billions more dependent on at least one household member's food system work for their livelihood. Yet statistics on the number of food system workers, the economic value of agrifood systems, and job quality, labor, and human rights remain very limited beyond primary agricultural production. This body of work fills these data gaps as the field's paradigm shifts from a narrow focus on the agricultural sector to an expanded view of the whole agrifood system, revealing entry points for policies and programs that improve livelihoods and support sustainable, resilient agrifood systems.
+
+**Ongoing**
+
+- **Estimating value added in global agrifood systems** — an FAO-funded project with Chris Barrett, Jing Yi, and Shiyun Jiang (Cornell University) and FAO colleagues Piero Conforti, Jose Rosero Moncayo, Veronica Boero, Silvia Cerilli, and Michele Vollaro. [Replication files for the FAO working paper](https://github.com/KateSchneider-FoodPol/KSL-et-al_AFS-Value-Added_FAO-Working-Paper-2025)
+
+**Completed**
+
+- **Estimating global and country-level employment in agrifood systems** — with Ben Davis, Paul Winters, Erdgin Mane, Yonca Gurbuzer, Giulia Caivano, Natalia Piedrahita, Nidhi Chaudhary, and Ramya Ambikapathi, estimating the number of people employed, otherwise laboring in, or dependent upon agrifood systems for their livelihoods. Published in [World Development](https://doi.org/10.1016/j.worlddev.2025.107296).
+
+## Peer-reviewed publications
+
+{{< include _generated/pubs-economics-data-gaps.md >}}

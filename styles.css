@@ -1,0 +1,156 @@
+.hero {
+  padding: 1.5rem 0 1rem 0;
+  border-bottom: 1px solid #e9ecef;
+  margin-bottom: 1.5rem;
+}
+
+.hero h1 {
+  margin-bottom: 0.5rem;
+}
+
+.hero-with-photo {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.hero-text {
+  flex: 2 1 320px;
+}
+
+.hero-photo {
+  flex: 1 1 180px;
+  max-width: 220px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+.banner-photo {
+  width: 100%;
+  max-height: 360px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+}
+
+.theme-photo {
+  width: 100%;
+  max-height: 260px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin: 0.75rem 0 1rem 0;
+}
+
+.float-photo {
+  float: right;
+  width: 180px;
+  height: auto;
+  max-height: 260px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin: 0 0 1rem 1.5rem;
+}
+
+@media (max-width: 700px) {
+  .float-photo {
+    float: none;
+    width: 100%;
+    max-height: 320px;
+    margin: 0 0 1rem 0;
+  }
+}
+
+.theme-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.theme-card {
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 0.75rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.theme-card-photo {
+  width: 100%;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+/* The image sits in its own <p> as a direct flex child of .theme-card;
+   without this it also matches ".theme-card p" below and absorbs
+   leftover vertical space, pushing shorter cards' headings down. */
+.theme-card > p:first-child {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+
+.theme-card h3 {
+  margin-top: 0;
+  font-size: 1.05rem;
+}
+
+.theme-card p {
+  flex-grow: 1;
+  font-size: 0.92rem;
+}
+
+@media (max-width: 800px) {
+  .theme-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+@media (max-width: 700px) {
+  .photo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+details > summary {
+  cursor: pointer;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+/* Publications lists carry their own "N." number prefix (descending from
+   the section total), so the default bullet marker is redundant. */
+.numbered-pubs ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.numbered-pubs li {
+  margin-bottom: 0.5rem;
+}
+
+/* Bootstrap's base a{font-weight:400} otherwise overrides bold on any
+   linked text nested inside **bold** markdown, e.g. "**[label](url)**" */
+strong a,
+a strong,
+b a,
+a b {
+  font-weight: bold;
+}

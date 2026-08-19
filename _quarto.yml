@@ -9,12 +9,25 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
+      - text: Research
+        menu:
+          - href: research.qmd
+            text: Overview
+          - href: research-equitable-access.qmd
+            text: Equitable Access to Healthy & Sustainable Diets
+          - href: research-food-systems-transformation.qmd
+            text: Food Systems Transformation
+          - href: research-economics-data-gaps.qmd
+            text: Economics of Agrifood Systems
       - href: teaching.qmd
         text: Teaching
       - href: publications.qmd
         text: Publications
+      - href: impact.qmd
+        text: Impact
+      - href: contact.qmd
+        text: Contact & Links
+    right:
       - href: cv.qmd
         text: CV
 
@@ -22,3 +35,4 @@ format:
   html:
     theme: cosmo
     toc: false
+    css: styles.css

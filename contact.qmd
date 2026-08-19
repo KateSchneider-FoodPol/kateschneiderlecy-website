@@ -1,0 +1,29 @@
+---
+title: "Contact & Links"
+---
+
+## Contact
+
+**Email:** k.schneider.lecy [at] asu [dot] edu
+
+School of Sustainability, Arizona State University
+Tempe, AZ
+
+## Find me elsewhere
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=lWGTfD4AAAAJ) — full publication list and citation metrics
+- [GitHub](https://github.com/KateSchneider-FoodPol) — data and replication code for published work
+- [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/Kate_Schneider) — archived research data
+- [ORCID](https://orcid.org/0000-0002-6861-3255)
+- [LinkedIn](https://www.linkedin.com/in/kate-schneider-7b9aaa26/)
+
+```{=html}
+<div class="photo-grid">
+  <img src="images/contact-12.webp" alt="Kate Schneider Lecy taking notes during a field site visit">
+  <img src="images/contact-10.webp" alt="Kate Schneider Lecy with colleagues, GKII panel, October 2023">
+  <img src="images/contact-11.webp" alt="Kate Schneider Lecy on a panel with Jose Rosero Moncayo, FAO">
+  <img src="images/contact-1.webp" alt="Kate Schneider Lecy presenting at a conference">
+  <img src="images/contact-5.webp" alt="Kate Schneider Lecy presenting to a full room">
+  <img src="images/fieldwork-buffalo.webp" alt="Kate Schneider Lecy doing fieldwork behind a water buffalo in a rice paddy">
+</div>
+```

@@ -2,6 +2,10 @@
 title: "CV"
 ---
 
-You can download my full CV here:
+**[Download CV (PDF)](cv/KSL_CV.pdf)**
 
-- [CV (PDF)](cv/KSL_CV.pdf)
+```{=html}
+<iframe src="cv/KSL_CV.pdf" width="100%" height="900" style="border: 1px solid #ddd; border-radius: 4px;">
+  <p>Your browser does not support embedded PDFs. <a href="cv/KSL_CV.pdf">Download the CV instead</a>.</p>
+</iframe>
+```

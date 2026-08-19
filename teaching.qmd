@@ -2,12 +2,64 @@
 title: "Teaching"
 ---
 
-## Courses
+## Current courses — Arizona State University
 
-### SOS 327 – Sustainable Food and Farms (ASU)
+### SOS 327 — Sustainable Global Food Systems
 
-Short description…
+Examines the structure and sustainability challenges of global food systems through the indicators used to track progress and inform policy — and what those measurements can and can't tell us.
 
-## For Students
+### SFS 565 — Research and Analysis Methods
 
-Notes for students, where to find syllabi, office hours norms, etc.
+A practicum in research design, methods, and ethics for food systems work, built around a client-partnered project; the first semester of the two-semester Master's capstone, continuing in SFS 566.
+
+### SFS 566 — Applied Research Project
+
+Supervises and mentors students through their group capstone project with a client partner, continuing from SFS 565.
+
+## Advising and Mentoring
+
+**Graduate students**
+
+Current:
+
+- Xuan Su, SOS PhD student
+- Chris Onuoha, ASU Master of Sustainable Food Systems, 2026
+
+Previous students and graduate research assistants:
+
+- Kaela Reisch, ASU Master of Sustainable Food Systems, 2026
+- Jeffrey Rice, Johns Hopkins SAIS DIA, 2026
+- Deviana Dewi, Johns Hopkins SAIS PhD, 2026
+- Destan Aytekin, Johns Hopkins Bloomberg School of Public Health PhD, 2026
+- Michael Di Girolamo, Johns Hopkins SAIS, MAIR, 2024
+
+**Undergraduate students**
+
+Current:
+
+- Ishita Deshpande, ASU BS 2027
+
+## Teaching history
+
+### Johns Hopkins SAIS
+
+**Instruction and course development**
+
+- Practical Research Methods — course redevelopment Winter 2021–2022; taught Spring & Fall 2022, Fall 2023, Fall 2024
+- Agricultural Development — curriculum development Winter 2022–2023 (revised Winter 2024); taught Spring 2023, Spring 2024
+- SAIS Women Lead Practicum (Faculty Advisor) — Fall 2021 & Spring 2022
+
+### Tufts University
+
+**Instruction and course development**
+
+- Statistical Methods (Co-Instructor with Prof. Sean Cash) — Fall 2020
+- Research Methods and Proposal Writing, online MS thesis course (Co-Instructor with Prof. Lynne Ausman) — Summer 2020
+- Economics of Agriculture and the Environment, with Prof. Sean Cash — Spring 2021
+
+**Teaching assistant**
+
+- Statistical Methods — Fall 2018 & 2019
+- Regression Analysis — Spring 2019
+- Research Methods and Proposal Writing — Summer 2019
+- Advanced Data Analysis Tutor — Spring 2019
