@@ -7,7 +7,7 @@ My research is grounded in the theory and methods of applied economics, public h
 I work in interdisciplinary collaborations to answer specific questions that contribute to this vision, using detailed empirical analysis of primary and secondary, quantitative and qualitative data across the US, low-income countries (primarily sub-Saharan Africa and South Asia), and globally. That work sits within two related, overarching themes:
 
 1. **Equitable access to and consumption of healthy and sustainable diets** — including increasing production and consumption of whole grains, legumes, and other "opportunity crops" through demand modeling, price analysis, choice experiments, and survey data analysis.
-2. **Agrifood system transformation toward sustainability** — split into two connected bodies of work: monitoring and understanding food systems transformation at global and national scales, and filling data gaps in the economics of agrifood systems that these transformations depend on.
+2. **Agrifood system transformation toward sustainability** — split into two connected bodies of work: monitoring and understanding food systems transformation at global and national scales, and filling evidence and data gaps in the economics of agrifood systems that these transformations depend on.
 
 Each theme page below covers ongoing and completed projects and links to the publications that came out of them; the full [publications list](publications.qmd) is tagged back to these same themes.
 
@@ -37,7 +37,7 @@ Monitoring and understanding historical and ongoing food systems change, and bui
 
 ### [Economics of Agrifood Systems](research-economics-data-gaps.qmd)
 
-Filling data gaps in the economics of agrifood systems as the field shifts from a narrow focus on agriculture to an expanded view of the whole agrifood system — employment and value added.
+Filling evidence and data gaps in the economics of agrifood systems as the field shifts from a narrow focus on agriculture to an expanded view of the whole agrifood system — employment and value added.
 
 **[Read more →](research-economics-data-gaps.qmd)**
 :::
