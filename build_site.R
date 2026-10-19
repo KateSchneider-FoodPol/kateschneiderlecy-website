@@ -82,8 +82,8 @@ message("Site build complete.")
 
 #### 4. Stage changes in git (commit/push are opt-in) ------------------------
 
-auto_commit <- FALSE  # set TRUE to auto-commit staged changes
-auto_push   <- FALSE  # set TRUE to auto-push after auto_commit (only takes effect if auto_commit is TRUE)
+auto_commit <- TRUE  # set TRUE to auto-commit staged changes
+auto_push   <- TRUE  # set TRUE to auto-push after auto_commit (only takes effect if auto_commit is TRUE)
 
 system("git add -A")
 
