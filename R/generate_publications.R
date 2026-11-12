@@ -73,7 +73,7 @@ try({
       write_csv(unmatched, "data/scholar_unmatched.csv")
       message(
         nrow(unmatched),
-        " Google Scholar entries did not match data/publications.csv. ",
+        "Google Scholar entries did not match data/publications.csv. ",
         "Review data/scholar_unmatched.csv and add any real new ",
         "publications to data/publications.csv by hand."
       )

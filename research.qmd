@@ -17,7 +17,7 @@ Each theme page below covers ongoing and completed projects and links to the pub
 
 ### [Equitable Access to Healthy & Sustainable Diets](research-equitable-access.qmd)
 
-Understanding the constraints to accessing and choosing safe, nourishing, and satisfying foods that promote health and support well-being — in the US, Rwanda, Malawi, and beyond.
+Understanding the constraints to accessing and choosing safe, nourishing, and satisfying foods that promote health and support well-being with country-level studies in the US, Malawi, and Rwanda to date.
 
 **[Read more →](research-equitable-access.qmd)**
 :::
@@ -27,7 +27,7 @@ Understanding the constraints to accessing and choosing safe, nourishing, and sa
 
 ### [Food Systems Transformation](research-food-systems-transformation.qmd)
 
-Monitoring and understanding historical and ongoing food systems change, and building policy-relevant food systems information systems and decision-support — including leading the data and analysis for the Food Systems Countdown Initiative.
+Monitoring and understanding historical and ongoing food systems change, and building policy-relevant food systems information systems and decision-support, including working on the Food Systems Countdown Initiative.
 
 **[Read more →](research-food-systems-transformation.qmd)**
 :::
@@ -37,7 +37,7 @@ Monitoring and understanding historical and ongoing food systems change, and bui
 
 ### [Economics of Agrifood Systems](research-economics-data-gaps.qmd)
 
-Filling evidence and data gaps in the economics of agrifood systems as the field shifts from a narrow focus on agriculture to an expanded view of the whole agrifood system — employment and value added.
+Filling evidence and data gaps in the economics of agrifood systems as the field shifts from a narrow focus on agriculture to an expanded view of the whole agrifood systems.
 
 **[Read more →](research-economics-data-gaps.qmd)**
 :::
